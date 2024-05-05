@@ -1,0 +1,22 @@
+{
+  "diary": [
+    {
+      "id": "3",
+      "diary": "sdf",
+      "date": "5.5.2024",
+      "isFav": true
+    },
+    {
+      "id": 2,
+      "diary": "asd",
+      "date": "5.5.2024",
+      "isFav": false
+    },
+    {
+      "id": 3,
+      "diary": "sad",
+      "date": "5.5.2024",
+      "isFav": false
+    }
+  ]
+}
